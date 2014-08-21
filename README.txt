@@ -1,0 +1,1 @@
+THe is my solution for the Sherlock And The Beast problem in HackerRank
